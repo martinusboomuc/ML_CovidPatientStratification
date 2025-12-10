@@ -21,4 +21,4 @@ The goal of this project is to develop an **integrated Machine Learning model** 
 ## Contact  
 For any questions or collaborations, feel free to reach out:  
 **Email:** martinusboom@gmail.com  
-**GitHub:** [MartinusBoomUc2024154464](https://github.com/MartinusBoomUc2024154464)  
+**GitHub:** [martinusboomuc](https://github.com/martinusboomuc) 
